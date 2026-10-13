@@ -1,0 +1,19 @@
+[2026-09-27 11:53:40] Door unlocked
+[2026-09-27 11:53:50] Door auto-locked
+[2026-09-27 11:55:43] Wrong password
+[2026-09-27 11:55:51] Wrong password
+[2026-09-27 11:55:55] Wrong password
+[2026-09-27 11:55:55] Alarm activated
+[2026-09-27 12:07:50] Password changed
+[2026-09-27 12:08:45] Password change failed
+[2026-09-27 12:27:49] Password changed
+[2026-09-27 12:27:58] Wrong password
+[2026-09-27 12:28:02] Wrong password
+[2026-09-27 12:28:07] Wrong password
+[2026-09-27 12:28:07] Alarm activated
+[2026-09-27 12:28:17] Security lockout cleared
+[2026-09-27 12:48:22] Password changed
+[2026-09-27 12:52:43] Password changed
+[2026-10-02 16:00:04] Door unlocked
+[2026-10-02 16:00:14] Door auto-locked
+[2026-10-02 16:00:58] Password changed
